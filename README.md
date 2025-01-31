@@ -32,11 +32,10 @@ This project is a recommendation system developed to work with Stibo Systems, le
 
 ## Getting Started
 
-
-### 1. **Clone the Repository**
-Clone this repository to your local machine.
-
+Link to PPT: https://www.canva.com/design/DAF60AyE9vY/2RMLfc4UhFW2VzrQcthg9g/edit?utm_content=DAF60AyE9vY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <img width="1427" alt="image" src="https://github.com/user-attachments/assets/4c6278f9-b488-408d-9cf7-72519f151e3b" />
+
+
 
 
