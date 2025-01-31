@@ -12,7 +12,7 @@ This project is a recommendation system developed to work with Stibo Systems, le
 ## Tech Stack
 - **Frontend:** React.js
 - **Backend:** Python, Flask
-- **Machine Learning:** K-Means clustering, Truncated SVD for product recommendations
+- **Machine Learning:** K-Means clustering, Truncated SVD for product recommendations, Association Mining, Apriopri Analysis
 - **Data Source:** Icecat (product data)
 - **APIs:** Custom APIs for recommendation serving
 
@@ -32,12 +32,6 @@ This project is a recommendation system developed to work with Stibo Systems, le
 
 ## Getting Started
 
-### Prerequisites
-Before you begin, ensure you have the following tools installed:
-- Python 3.x
-- Node.js (for React frontend)
-- Docker (for backend deployment)
-- Google Cloud SDK (if you plan to deploy on Google Cloud)
 
 ### 1. **Clone the Repository**
 Clone this repository to your local machine.
@@ -45,5 +39,6 @@ Clone this repository to your local machine.
 ```bash
 git clone https://github.com/your-username/stibo-recommendation-system.git
 
+<img width="1427" alt="image" src="https://github.com/user-attachments/assets/4c6278f9-b488-408d-9cf7-72519f151e3b" />
 
-![alt text](image.png)
+
