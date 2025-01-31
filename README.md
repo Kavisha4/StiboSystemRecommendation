@@ -36,8 +36,6 @@ This project is a recommendation system developed to work with Stibo Systems, le
 ### 1. **Clone the Repository**
 Clone this repository to your local machine.
 
-```bash
-git clone https://github.com/your-username/stibo-recommendation-system.git
 
 <img width="1427" alt="image" src="https://github.com/user-attachments/assets/4c6278f9-b488-408d-9cf7-72519f151e3b" />
 
